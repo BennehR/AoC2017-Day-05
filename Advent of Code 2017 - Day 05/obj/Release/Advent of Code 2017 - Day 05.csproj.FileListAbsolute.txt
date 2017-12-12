@@ -1,0 +1,6 @@
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\bin\Release\Advent of Code 2017 - Day 05.exe
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\bin\Release\Advent of Code 2017 - Day 05.pdb
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\obj\Release\Advent of Code 2017 - Day 05.csprojResolveAssemblyReference.cache
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\obj\Release\Advent of Code 2017 - Day 05.csproj.CoreCompileInputs.cache
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\obj\Release\Advent of Code 2017 - Day 05.exe
+E:\Benneh\Documents\Projects\Visual Studio\Advent of Code 2017\Day 05\Advent of Code 2017 - Day 05\obj\Release\Advent of Code 2017 - Day 05.pdb
